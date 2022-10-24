@@ -17,7 +17,7 @@ Your website must meet accessibility standards. You can achieve this completing 
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
 
-I began by exploring the code to get familiar with it and then focused on individual areas as opposed to trying to focus on everything at once. This allowed me to ensure that any changes I made didn't cause further problems and to check that the CSS was still being applied correctly. Once I was happy with each change, I committed each one to allow me flexibility if I needed to revert to an older version of code.This challenge has helped me understand the importance of refactoring and accessibility. 
+I began by exploring the code to get familiar with it and then focused on individual areas as opposed to trying to focus on everything at once. This allowed me to ensure that any changes I made didn't cause further problems and to check that the CSS was still being applied correctly. Once I was happy with each change, I committed each one to allow me flexibility if I needed to revert to an older version of code. This challenge has helped me understand the importance of refactoring and accessibility. 
 
 # Challenges 
  
@@ -27,7 +27,7 @@ I began by exploring the code to get familiar with it and then focused on indivi
  
  One other challenge I came across was understanding whether my CSS styling sheet followed correct semantic structure and that it was consolidated and organised appropriately. I referred to previous work, lessons and the internet to guide me on whether my changes were relective of common practice or were indeed correct. I found that commenting on each change helped me to understand my changes and to ensure that anyone looking at my code could see my reasoning for changes. 
  
- My final challenge was exploring whether the backgroun image required something similar to an alt attribute. Researching this query on the internet taught me that there were a few ways this could be done, such as using an aria-lable attribute. However, I chose the title attribute as the background image is not necessary to the overall understanding of the webpage's meaning but I wanted to still give some information for accessibility purposes.
+ My final challenge was exploring whether the background image required something similar to an alt attribute. Researching this query on the internet taught me that there were a few ways this could be done, such as using an aria-label attribute. However, I chose the title attribute as the background image is not necessary to the overall understanding of the webpage's meaning but I wanted to still give some information for accessibility purposes.
 
 # Things I learned
 
