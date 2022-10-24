@@ -26,6 +26,8 @@ I began by exploring the code to get familiar with it and then focused on indivi
  Other challenges I had was identifying where semantic HTML elements should go. I used a HTML5 element flowchart to guide me, but I also required the use of the internet to explore each element in further detail. This is why I decided upon using header, nav, main, section and footer elements to best reflect what each element contained. I felt that it was necessary to keep one div element where the background picture was contained as I felt this did not have any specific content. I would welcome any further comments regading this to further develop my understanding.
  
  One other challenge I came across was understanding whether my CSS styling sheet followed correct semantic structure and that it was consolidated and organised appropriately. I referred to previous work, lessons and the internet to guide me on whether my changes were relective of common practice or were indeed correct. I found that commenting on each change helped me to understand my changes and to ensure that anyone looking at my code could see my reasoning for changes. 
+ 
+ My final challenge was exploring whether the backgroun image required something similar to an alt attribute. Researching this query on the internet taught me that there were a few ways this could be done, such as using an aria-lable attribute. However, I chose the title attribute as the background image is not necessary to the overall understanding of the webpage's meaning but I wanted to still give some information for accessibility purposes.
 
 # Things I learned
 
