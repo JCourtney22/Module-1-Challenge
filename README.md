@@ -33,10 +33,10 @@ I began by exploring the code to get familiar with it and then focused on indivi
 
 I learnt to be resilient and work in a systematic manner. I found specific ways of styling css to make it more conscise and I developed my understanding of semantic elements further.
 
-The screenshot below shows my deployed website.
+The screenshot below shows my deployed website (https://jcourtney22.github.io/Module-1-Challenge/).
 
 ![jcourtney22 github io_Module-1-Challenge_](https://user-images.githubusercontent.com/115502589/197534815-5046c471-8dbf-416a-ac03-df3e2c8daab7.png)
  
 # License
   
-Please refere to the LICENSE in the repo.
+Please refer to the LICENSE in the repo.
