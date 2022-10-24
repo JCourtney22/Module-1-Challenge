@@ -20,9 +20,9 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
-    color: #d9dcd6;
-}
+/* Removed unecessary class selector below */
+
+/* Removed .seo attribute to conform to css class naming ocnventions */
 
 .header nav {
     padding-top: 15px;
@@ -47,7 +47,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.div {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -56,7 +56,7 @@ p {
     background-position: center;
 }
 
-/* Moved content here to follow the html properly. */
+/* Moved the belowcontent here to follow the html properly. */
 
 .content {
     width: 75%;
@@ -106,23 +106,23 @@ p {
     background-color: #2589bd;
 }
 
-/* Changed the class attribute name to combine the styling. */
+/* Changed the class attribute name to combine the styling. AMended class attribut name to avoid confusion with similarly named class attribute. */
 
-.benefit {
+.info {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 /* Amended the class attribute so all headings under this can be targeted. */
 
-.benefit h3 {
+.info h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 /* Amended the class attribute so all imgs under this could be targeted. */
 
-.benefit img {
+.info img {
     display: block;
     margin: 10px auto;
     max-width: 150px;

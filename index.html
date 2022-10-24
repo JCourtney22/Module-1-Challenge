@@ -10,9 +10,9 @@
 </head>
 
 <body>
-    <!-- Changed first div to header because this has the heading and nav links -->
+    <!-- Changed first div to header because this has the heading and nav links. Removed class sttribute in h1. -->
     <header class="header">
-        <h1>Hori<span class="seo">seo</span>n</h1>
+        <h1>Hori<span style=" color: #d9dcd6;">seo</span>n</h1>
         <!-- Changed the div element to nav because the below are navigational links, correspondng
         CSS updated. -->
         <nav>
@@ -24,14 +24,16 @@
                     <a href="#online-reputation-management">Online Reputation Management</a>
                 </li>
                 <li>
-                    <a href="#social-media-marketing">Social Media Marketing!</a>
+                    <!-- Exclamation taken out to improve readability and continuity. -->
+                    <a href="#social-media-marketing">Social Media Marketing</a>
                 </li>
             </ul>
         </nav>
     </header>
 
-    <section class="hero"></section>
-<!-- I chose to use main element instead of the div to highlight the fact that the information within it
+    <div class="div"></div>
+
+    <!-- I chose to use main element instead of the div to highlight the fact that the information within it
     is the main content of the page. -->
 
     <main class="content">
@@ -71,8 +73,12 @@
         </section>
     </main>
     
-    <div class="benefits">
-        <section class="benefit">
+<!-- Named the below as a section as the content did not feel suitable to be named as an
+aside or article. -->
+
+    <Section class="benefits">
+        <!-- Amended class attribute name to avoid confusion with similarly named attribute above. -->
+        <section class="info">
             <h3>Lead Generation</h3>
             <!-- Taken out extra / in img element and added alt attribute -->
             <img src="./assets/images/lead-generation.png" alt="lead generation icon">
@@ -82,7 +88,7 @@
             </p>
         </section>
         
-        <section class="benefit">
+        <section class="info">
             <h3>Brand Awareness</h3>
             <!-- Taken out extra / in img element and added alt attribute -->
             <img src="./assets/images/brand-awareness.png" alt="awareness icon">
@@ -92,7 +98,7 @@
             </p>
         </section>
 
-        <section class="benefit">
+        <section class="info">
             <h3>Cost Management</h3>
             <!-- Taken out extra / in img element and added alt attribute, removed unecssary closing tag -->
             <img src="./assets/images/cost-management.png" alt="cost managment icon">
@@ -101,7 +107,7 @@
                 need to advertise your page.
             </p>
         </section>
-    </div>
+    </section>
     
     <!-- Changed div to a footer element below -->
     <footer class="footer">
